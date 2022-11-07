@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Automation]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Sprint v1.0(failed)">
+    <classes>
+      <class name="housingTesting.JMB_DB_029">
+        <methods>
+          <include name="tearDown"/>
+          <include name="housingPrice19"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- housingTesting.JMB_DB_029 -->
+      <class name="housingTesting.JMB_DB_016">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setup"/>
+          <include name="housingPrice6"/>
+        </methods>
+      </class> <!-- housingTesting.JMB_DB_016 -->
+      <class name="housingTesting.JMB_DB_022">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setup"/>
+          <include name="housingPrice12"/>
+        </methods>
+      </class> <!-- housingTesting.JMB_DB_022 -->
+      <class name="housingTesting.JMB_DB_020">
+        <methods>
+          <include name="tearDown"/>
+          <include name="housingPrice10"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- housingTesting.JMB_DB_020 -->
+      <class name="housingTesting.JMB_DB_019">
+        <methods>
+          <include name="housingPrice9"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- housingTesting.JMB_DB_019 -->
+      <class name="housingTesting.JMB_DB_028">
+        <methods>
+          <include name="tearDown"/>
+          <include name="housingPrice18"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- housingTesting.JMB_DB_028 -->
+      <class name="housingTesting.JMB_DB_018">
+        <methods>
+          <include name="housingPrice8"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- housingTesting.JMB_DB_018 -->
+      <class name="housingTesting.JMB_DB_024">
+        <methods>
+          <include name="tearDown"/>
+          <include name="housingPrice14"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- housingTesting.JMB_DB_024 -->
+      <class name="housingTesting.JMB_DB_030">
+        <methods>
+          <include name="housingPrice20"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- housingTesting.JMB_DB_030 -->
+      <class name="housingTesting.JMB_DB_011">
+        <methods>
+          <include name="housingPrice1"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- housingTesting.JMB_DB_011 -->
+      <class name="housingTesting.JMB_DB_027">
+        <methods>
+          <include name="housingPrice17"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- housingTesting.JMB_DB_027 -->
+      <class name="housingTesting.JMB_DB_017">
+        <methods>
+          <include name="housingPrice7"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- housingTesting.JMB_DB_017 -->
+    </classes>
+  </test> <!-- Sprint v1.0(failed) -->
+</suite> <!-- Failed suite [Automation] -->
