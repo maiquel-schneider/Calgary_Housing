@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="JomboneTestSuite">
+	<test name="TestNGTest1" thread-count="5">
+		<classes>
+			<class name="JomboneTesting.JMB_DB_011" />
+			<class name="JomboneTesting.JMB_DB_012" />
+			<class name="JomboneTesting.JMB_DB_013" />
+			<class name="JomboneTesting.JMB_DB_014" />
+			<class name="JomboneTesting.JMB_DB_015" />
+			<class name="JomboneTesting.JMB_DB_016" />
+			<class name="JomboneTesting.JMB_DB_017" />
+			<class name="JomboneTesting.JMB_DB_018" />
+			<class name="JomboneTesting.JMB_DB_019" />
+			<class name="JomboneTesting.JMB_DB_020" />
+			<class name="JomboneTesting.JMB_DB_021" />
+		
+		
+		</classes>
+	</test>
+</suite>	
